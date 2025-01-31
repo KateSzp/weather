@@ -3,6 +3,7 @@
 ## Today
 
 Cloudy with a chance of sun.
+Mild temperatures around 16 °C.
 
 ## Tomorrow
 
